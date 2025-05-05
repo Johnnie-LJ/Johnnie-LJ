@@ -4,7 +4,6 @@
   
 - 💞️ I’m looking to collaborate ... on [C++] tasks and projects.
 - 📫 How to reach me ...  IG: Johnnie_LJ
-- 😄 Pronouns: ... Mr
 - ⚡ Fun fact: ... I am an athlete.
 
 <!---
