@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnnie-LJ
 - 👀 I’m interested in Programming/Coding and finding a career in this field.
-- 🌱 I’m currently learning programming etc. in Computer Science.
+- 🌱 I’m currently a student of Mathematics & Computer Science.
   
 - 💞️ I’m looking to collaborate ... on [C++] tasks and projects.
 - 📫 How to reach me ...  IG: Johnnie_LJ
